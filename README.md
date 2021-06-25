@@ -13,4 +13,4 @@
 <a href="#"><img alt="express" src="images/express.svg" width="18"></a>
 <a href="#"><img alt="mongodb" src="images/mongodb.svg" width="18"></a> 
 <a href="#"><img alt="github" src="images/github.svg" width="18"></a>
-<a href="#"><img alt="webstorm" src="images/webstorm.svg" width="18"></a>8
+<a href="#"><img alt="webstorm" src="images/webstorm.svg" width="18"></a>
