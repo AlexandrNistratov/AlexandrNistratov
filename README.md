@@ -1,16 +1,16 @@
-### Hi there 👋
+### Всем привет, меня зовут Александр 👋
 
-<!--
-**AlexandrNistratov/AlexandrNistratov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖤 Обожаю Web и хочу развиваться в данном направлении
+🤯 Готов к бесконечному обучению
+⏳ Стремлюсь скорее найти работу, чтоб полностью посвятить себя разработке
 
-Here are some ideas to get you started:
+### Мой стек:
+HTML5  
+CSS3
+JavaScript  
+Node.js  
+React.js   
+Express  
+Mongoose   
+Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
